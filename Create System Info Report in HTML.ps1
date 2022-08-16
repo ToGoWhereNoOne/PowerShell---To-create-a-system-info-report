@@ -31,7 +31,7 @@
 
 
 .NOTES
-	Author: ToGoWhereNoOne 
+	Author: Q 
     1) If you are running the script at work or other sensitive environment, ensure your supervisor, the IT and/or Info Sec teams know about it for your own protection. These days there are tools that can detect PowerShell commands and can block you and trigger an alert and possibly an investigation.
     2) The script creator assumes no liability for the function, use or any consequences of this free script.
     3) This script was created in good faith to avoid doing tedious, redundant or time-consuming work.
